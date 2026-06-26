@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "My blog"
+title: "Título"
+author: "João Vitor B. M. Santos"
+description: "Estudante UFV, Ciência de Dados."
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
