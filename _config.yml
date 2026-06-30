@@ -24,7 +24,6 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:joao.b.santos@ufv.br"}
   - {title: Github, icon: github, url: "https://github.com/joaobsantos-lgtm"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/massessini"}
 
 comments:
