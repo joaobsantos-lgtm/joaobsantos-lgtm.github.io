@@ -22,10 +22,10 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mail, icon: envelope, url: "joao.b.santos@ufv.br"}
-  - {title: Github, icon: github, url: "https://joaobsantos-lgtm.github.io/"}
+  - {title: Mail, icon: envelope, url: "mailto:joao.b.santos@ufv.br"}
+  - {title: Github, icon: github, url: "https://github.com/joaobsantos-lgtm"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
-  - {title: Linkedin, icon: linkedin, url: "www.linkedin.com/in/massessini"}
+  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/massessini"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
