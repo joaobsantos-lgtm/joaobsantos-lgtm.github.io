@@ -1,8 +1,8 @@
-title: "Título"
+title: "João Vitor B. M. Santos / Portifólio"
 author: "João Vitor B. M. Santos"
 description: "Estudante UFV, Ciência de Dados."
 permalink: /:title/
-lang: "en"
+lang: "pt-BR"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
@@ -10,7 +10,7 @@ date_format: "%B %d, %Y"
 
 show_excerpts: true             # show article excerpts instead of archive list on the home page
 show_frame: true                # display a grey frame on large screens
-show_sidebar: false             # show a sidebar instead of the usual header
+show_sidebar: True            # show a sidebar instead of the usual header
 show_minimal: false             # remove all clutter
 
 #show_frame: "/assets/images/background.svg"
@@ -22,9 +22,10 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mail, icon: envelope, url: "mailto:author@example.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+  - {title: Mail, icon: envelope, url: "joao.b.santos@ufv.br"}
+  - {title: Github, icon: github, url: "https://joaobsantos-lgtm.github.io/"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Linkedin, icon: linkedin, url: "www.linkedin.com/in/massessini"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
